@@ -1,39 +1,34 @@
 <sync rows="128">
 	<tracks>
 		<track name="c_pos_x">
-			<key row="0" interpolation="2" value="100"/>
-			<key row="15" interpolation="0" value="90"/>
+			<key row="0" value="100" interpolation="0"/>
 		</track>
 		<track name="c_pos_y">
-			<key row="0" interpolation="1" value="-50"/>
-			<key row="15" interpolation="0" value="-13"/>
+			<key row="0" value="-50" interpolation="0"/>
 		</track>
 		<track name="c_pos_z">
-			<key row="0" interpolation="0" value="100"/>
+			<key row="0" value="100" interpolation="0"/>
 		</track>
 		<track name="scale">
-			<key row="0" interpolation="0" value="40"/>
+			<key row="0" value="60" interpolation="0"/>
 		</track>
 		<track name="gx">
-			<key row="0" interpolation="0" value="-25"/>
+			<key row="0" value="-2" interpolation="0"/>
 		</track>
 		<track name="gy">
-			<key row="0" interpolation="0" value="-25"/>
+			<key row="0" value="-2" interpolation="0"/>
 		</track>
 		<track name="gz">
-			<key row="0" interpolation="0" value="40"/>
+			<key row="0" value="0" interpolation="0"/>
 		</track>
 		<track name="v_pos_x">
-			<key row="0" interpolation="1" value="0"/>
-			<key row="16" interpolation="0" value="100"/>
+			<key row="0" value="0" interpolation="0"/>
 		</track>
 		<track name="v_pos_y">
-			<key row="0" interpolation="1" value="0"/>
-			<key row="16" interpolation="0" value="10"/>
+			<key row="0" value="0" interpolation="0"/>
 		</track>
 		<track name="v_pos_z">
-			<key row="0" interpolation="1" value="0"/>
-			<key row="16" interpolation="0" value="10"/>
+			<key row="0" value="0" interpolation="0"/>
 		</track>
 	</tracks>
 	<bookmarks/>
