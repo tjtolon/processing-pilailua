@@ -1,0 +1,44 @@
+<sync rows="300">
+	<tracks>
+		<track name="my_track"/>
+		<track name="x_pos">
+			<key row="0" value="-100" interpolation="2"/>
+			<key row="8" value="100" interpolation="2"/>
+			<key row="16" value="100" interpolation="2"/>
+			<key row="24" value="-100" interpolation="2"/>
+			<key row="32" value="-100" interpolation="2"/>
+			<key row="40" value="100" interpolation="2"/>
+			<key row="48" value="100" interpolation="2"/>
+			<key row="56" value="-100" interpolation="1"/>
+			<key row="64" value="-100" interpolation="3"/>
+			<key row="72" value="100" interpolation="3"/>
+			<key row="80" value="100" interpolation="3"/>
+			<key row="88" value="-100" interpolation="3"/>
+			<key row="96" value="-100" interpolation="3"/>
+			<key row="104" value="100" interpolation="3"/>
+			<key row="112" value="100" interpolation="3"/>
+			<key row="120" value="-100" interpolation="2"/>
+			<key row="128" value="-100" interpolation="0"/>
+		</track>
+		<track name="z_pos">
+			<key row="0" value="-200" interpolation="2"/>
+			<key row="8" value="-200" interpolation="2"/>
+			<key row="16" value="200" interpolation="2"/>
+			<key row="24" value="200" interpolation="2"/>
+			<key row="32" value="-200" interpolation="2"/>
+			<key row="40" value="-200" interpolation="1"/>
+			<key row="48" value="200" interpolation="1"/>
+			<key row="56" value="200" interpolation="3"/>
+			<key row="64" value="-200" interpolation="3"/>
+			<key row="72" value="-200" interpolation="3"/>
+			<key row="80" value="200" interpolation="3"/>
+			<key row="88" value="200" interpolation="3"/>
+			<key row="96" value="-200" interpolation="3"/>
+			<key row="104" value="-200" interpolation="3"/>
+			<key row="112" value="200" interpolation="3"/>
+			<key row="120" value="200" interpolation="3"/>
+			<key row="128" value="-200" interpolation="0"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
